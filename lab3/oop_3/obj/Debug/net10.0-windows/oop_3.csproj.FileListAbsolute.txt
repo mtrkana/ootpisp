@@ -1,0 +1,16 @@
+C:\univer\4sem\оотписп\oop_3\oop_3\bin\Debug\net10.0-windows\oop_3.exe
+C:\univer\4sem\оотписп\oop_3\oop_3\bin\Debug\net10.0-windows\oop_3.deps.json
+C:\univer\4sem\оотписп\oop_3\oop_3\bin\Debug\net10.0-windows\oop_3.runtimeconfig.json
+C:\univer\4sem\оотписп\oop_3\oop_3\bin\Debug\net10.0-windows\oop_3.dll
+C:\univer\4sem\оотписп\oop_3\oop_3\bin\Debug\net10.0-windows\oop_3.pdb
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.Form1.resources
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.csproj.GenerateResource.cache
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.AssemblyInfoInputs.cache
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.AssemblyInfo.cs
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.csproj.CoreCompileInputs.cache
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.dll
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\refint\oop_3.dll
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.pdb
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\oop_3.genruntimeconfig.cache
+C:\univer\4sem\оотписп\oop_3\oop_3\obj\Debug\net10.0-windows\ref\oop_3.dll

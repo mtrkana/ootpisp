@@ -1,0 +1,2 @@
+Rectangle|8|5
+Triangle|30|40|50
