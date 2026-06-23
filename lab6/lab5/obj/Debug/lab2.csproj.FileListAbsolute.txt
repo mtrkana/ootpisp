@@ -1,0 +1,70 @@
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\bin\Debug\lab1.exe.config
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\bin\Debug\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\bin\Debug\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab1.MainForm.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab1.Properties.Resources.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab4\obj\Debug\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\lab1.exe.config
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab1.MainForm.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab1.Properties.Resources.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab2.csproj.CopyComplete
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\obj\Debug\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\StarPlugin.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab5_full\lab5\bin\Debug\StarPlugin.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab1.MainForm.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab1.Properties.Resources.resources
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\lab1.exe.config
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\lab1.exe
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\lab1.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\CommonInterfaces.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\FriendPluginAdapter.dll
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\CommonInterfaces.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\bin\Debug\FriendPluginAdapter.pdb
+D:\проверка для синхронизации\labs(\4_sem\oop\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.CopyComplete
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\lab1.exe.config
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\lab1.exe
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\lab1.pdb
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\CommonInterfaces.dll
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\FriendPluginAdapter.dll
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\CommonInterfaces.pdb
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\bin\Debug\FriendPluginAdapter.pdb
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab1.MainForm.resources
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab1.Properties.Resources.resources
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab2.csproj.Up2Date
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab1.exe
+C:\Users\tundr\Downloads\38833FF26BA1D.UnigramPreview_g9c9v27vpyspw!App\lab_all\lab6_full\lab5\obj\Debug\lab1.pdb
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\lab1.exe.config
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\lab1.exe
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\lab1.pdb
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\CommonInterfaces.dll
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\FriendPluginAdapter.dll
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\CommonInterfaces.pdb
+C:\univer\4sem\оотписп\lab6_full\lab5\bin\Debug\FriendPluginAdapter.pdb
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab1.MainForm.resources
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab1.Properties.Resources.resources
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab2.csproj.Up2Date
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab1.exe
+C:\univer\4sem\оотписп\lab6_full\lab5\obj\Debug\lab1.pdb
